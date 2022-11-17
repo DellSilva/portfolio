@@ -147,7 +147,7 @@ input[type="submit"] {
 }
 
 .description-img {
-    background-color: #ddd;
+    /* background-color: #ddd; */
     color: #111;
     font-size: 1.8rem;    
     line-height: 3rem;
